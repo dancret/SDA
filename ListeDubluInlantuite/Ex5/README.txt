@@ -1,0 +1,3 @@
+3.4. Folosind o listă circulară dublu înlănţuită să se simuleze următorul joc: n copii, ale căror nume se citesc de la tastatură, stau în cerc. Începând cu un anumit copil (numele său se citeşte), se numără copiii în sensul acelor de ceasornic. Fiecare al m-lea copil (m se citeşte) iese din joc. Numărătoarea continuă începând cu următorul copil din cerc. Câştigă jocul ultimul copil rămas în cerc.
+
+3.5. Aceeaşi problemă ca la 3.4., dar numărătoarea se face în sens contrar cu cel al acelor de ceasornic.
