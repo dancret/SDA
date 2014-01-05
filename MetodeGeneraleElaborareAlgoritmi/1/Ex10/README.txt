@@ -1,0 +1,1 @@
+3.10.Se dau două mulţimi de numere întregi A şi B. Să se genereze toate funcţiile f:A -> B.
