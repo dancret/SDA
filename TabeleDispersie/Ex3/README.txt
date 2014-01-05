@@ -1,0 +1,1 @@
+3.3. Scrieţi un program care să tipărească identificatorii dintr-o tabelă de dispersie în ordine alfabetică.
