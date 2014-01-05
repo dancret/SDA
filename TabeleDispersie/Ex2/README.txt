@@ -1,0 +1,2 @@
+3.2. Să se implementeze algoritmii prezentaţi aferenţi unei tabele de dispersie. Înregistrarea va conţine datele aferente unui student. Cheia va fi numele şi prenumele studentului. Scrieţi în plus
+faţă de cele prezentate o funcţie de ştergere a unei înregistrări de cheie dată.

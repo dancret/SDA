@@ -1,0 +1,1 @@
+3.7 Se dă un graf neorientat cu n noduri. Se cere să se determine numărul minim de culori necesare pentru a colora nodurile grafului dat, astfel încât două vârfuri legate printr-o muchie să fie colorate cu culori diferite.
