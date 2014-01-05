@@ -1,0 +1,1 @@
+3.6. Scrieţi un algoritm care combină algoritmii de sortare quick-sort pentru obţinerea de   partiţii nesortate de lungime m,  apoi utilizaţi  inserţia directă pentru terminarea sortării.
